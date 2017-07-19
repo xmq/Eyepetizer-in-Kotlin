@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="ijkplayer-exo-0.8.0">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ijkplayer-exo-0.8.0.aar/31d5808fe132ac317eff61e59a703b7a/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ijkplayer-exo-0.8.0.aar/31d5808fe132ac317eff61e59a703b7a/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/2bb55b813eda52e71674fe92157bed4e9a10a48c/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/2bb55b813eda52e71674fe92157bed4e9a10a48c/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
